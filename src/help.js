@@ -1,15 +1,15 @@
 const help = (prefix) => {
 	return `
 
-⌜ *XavyBot By Ochoa* ⌟  
+⌜ *DragonBot By 𝕯𝖗𝖆𝖌𝖔𝖓ꫂ▸ᷫ ᷰ ⷭ ⷦ⁩* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: Ochoa
+   ○ Creador: 𝕯𝖗𝖆𝖌𝖔𝖓ꫂ▸ᷫ ᷰ ⷭ ⷦ⁩
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
-Ejemplo Daftar: Ochoa
+Ejemplo Daftar: Dragon
 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}banmenu
@@ -102,7 +102,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by Ochoa*_
+_*by 𝕯𝖗𝖆𝖌𝖔𝖓ꫂ▸ᷫ ᷰ ⷭ ⷦ⁩*_
 
 
  
