@@ -1,10 +1,10 @@
-const help = (prefix, Ochoa, XavyBot) => {
+const help = (prefix, Dragón, DragonBot) => {
         return `
-「 *${XavyBot}* 」
+「 *${DragonBot}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${Ochoa}
+  ❏ Creator: ${Dragon}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
