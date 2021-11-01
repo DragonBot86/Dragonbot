@@ -1753,7 +1753,7 @@ break
                   }
 
 		if (budy.includes(`Gracias`)) {
-                  reply(`De Nada UwU`)
+                  reply(`De Nada uwu`)
                   }
 
 		if (budy.includes(`Bien gracias y tu?`)) {
