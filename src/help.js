@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
 
-⌜ *DragonBot By 𝕯𝖗𝖆𝖌𝖔𝖓ꫂ▸ᷫ ᷰ ⷭ ⷦ⁩* ⌟  
+⌜ *DragonBot By 𝕯𝖗𝖆𝖌𝖔𝖓⁩* 
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: 𝕯𝖗𝖆𝖌𝖔𝖓ꫂ▸ᷫ ᷰ ⷭ ⷦ⁩
+   ○ Creador: 𝕯𝖗𝖆𝖌𝖔𝖓⁩
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
@@ -102,7 +102,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by 𝕯𝖗𝖆𝖌𝖔𝖓ꫂ▸ᷫ ᷰ ⷭ ⷦ⁩*_
+_*by 𝕯𝖗𝖆𝖌𝖔𝖓⁩*_
 
 
  
