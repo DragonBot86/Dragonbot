@@ -1,4 +1,4 @@
-const help = (prefix, Dragón, DragonBot) => {
+const help = (prefix, Dragon, DragonBot) => {
         return `
 「 *${DragonBot}* 」
 
